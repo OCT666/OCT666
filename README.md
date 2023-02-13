@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OCT666
-- 👀 I’m interested in PASOKON POTIPOTI
-- 🌱 I’m currently learning PUROGURAMINGUU
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 - LAZY.
